@@ -1,4 +1,4 @@
-# book-review-sentiment-analysis# Book Review Sentiment Analysis
+# Book Review Sentiment Analysis
 
 Can we tell how a reader rated a book from the words they used in their review?
 
